@@ -1,0 +1,7 @@
+# Create a Conda Environment 
+- Very important to create a virtual Environment as a best practice. 
+- conda create -n python_for_m_i python=3.8
+- To activate- conda activate python_for_m_i
+- To deactivate: conda deactivate
+
+# Starting to Code 
